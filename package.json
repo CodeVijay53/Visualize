@@ -1,0 +1,21 @@
+{
+  "name": "reference",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dat.gui": "^0.7.9",
+    "drag-drop": "^7.2.0",
+    "three": "^0.161.0"
+  },
+  "devDependencies": {
+    "vite": "^5.1.3"
+  }
+}
